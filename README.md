@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Pierre, a full stack web-developer from Paris. After having completed a web-development bootcamp with Le Wagon, I am looking to further develop my stills as a developer. 
+I'm Pierre, a full stack web-developer from Paris. After having completed a web-development bootcamp with Le Wagon, I am looking to further develop my skills as a developer by learning new programming languages and frameworks.
 
 <!--
 **Pierrerobertson06/Pierrerobertson06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
